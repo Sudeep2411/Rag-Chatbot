@@ -1,0 +1,6 @@
+This repository demonstrates a simple Retrieval-Augmented Generation (RAG) chatbot.
+It uses sentence-transformers for embeddings and Chroma for the vector database.
+Feel free to add your own PDFs and texts to the data folder and re-run the ingestion script.
+The chatbot can answer questions about the documents you provide.
+Hugging Face provides excellent models for both embedding and text generation.
+ChromaDB is a lightweight vector database perfect for local development.

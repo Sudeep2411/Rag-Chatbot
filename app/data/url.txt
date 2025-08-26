@@ -1,0 +1,3 @@
+https://huggingface.co/docs
+https://en.wikipedia.org/wiki/Generative_artificial_intelligence
+https://arxiv.org/abs/1706.03762
